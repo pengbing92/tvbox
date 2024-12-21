@@ -1,7 +1,7 @@
-﻿{
+{
 "video": {"sites": [
-{"key":"wogg_open","name":"影视 | 玩偶1","type":3,"api":"assets://js/wogg_open.js","ext":"填自己的32位token"},
-{"key":"wogg","name":"影视 | 玩偶2","type":3,"api":"assets://js/wogg.js","ext":"填自己的32位token"},
+{"key":"wogg_open","name":"影视 | 玩偶1","type":3,"api":"assets://js/wogg_open.js","ext":"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"},
+{"key":"wogg","name":"影视 | 玩偶2","type":3,"api":"assets://js/wogg.js","ext":"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"},
 {"key":"ytvip","name":"影视 | 影探","type":3,"api":"assets://js/yt.js","ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 {"key":"yqktv_open","name":"影视 | 一起看","type":3,"api":"assets://js/yqktv_open.js"},
 {"key":"555dy_open","name":"影视 | 555","type":3,"api":"assets://js/555dy_open.js"},
@@ -144,7 +144,7 @@
 {"name":"悦享盘","server":"https://pity.eu.org/"},
 {"name":"小雅备用","server":"http://123.60.188.109:5678/"},
 {"name":"小黄瓜","server":"http://sbpan.tk/"},
-{"name":"👀微资·随意盘","server":"https://apps.weixinqqq.com/"},
+{"name":"?微资·随意盘","server":"https://apps.weixinqqq.com/"},
 {"name":"雨呢备用","server":"https://clun.eu.org/"},
 {"name":"潇洒备用","server":"http://www.azad.asia:5244/"},
 {"name":"A大杂物库","server":"https://alist.qyide.com/"},
